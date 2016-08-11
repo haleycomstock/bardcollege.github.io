@@ -39,7 +39,7 @@ img{
 }
 
 .headshot{
-    float:right;
+    float:left;
     height: 360px;
     padding-top:0px;
 }
